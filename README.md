@@ -1,1 +1,2 @@
-# Photo_Color-mains
+# Photo-colors
+This is a program is used to detect colour of picture
